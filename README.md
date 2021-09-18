@@ -2,8 +2,8 @@
 
 ## 🚀 Here's a little bit about me:
 - I'm current President for Rice Society of Asian Scientists & Engineers
-- I'm a tech lead at RiceApps, an orginization that creates digital solutions for social 
-- I'm also publicist for Rice CS Club and Internal Vice President for Rice Vietnamese Student Association
+- I'm Tech Lead at RiceApps, an orginization that creates digital solutions for social 
+- I'm also Publicist for Rice CS Club and Internal Vice President for Rice Vietnamese Student Association
 
 <!---
 newton-huynh/newton-huynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
